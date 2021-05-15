@@ -6,4 +6,4 @@ or import the attached database sql file.
 
 الطالب معتز هجرس -162132
 
-this HW was done using table adapters & datasets.
+this HW was done using SQL raw queries.
